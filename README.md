@@ -1,2 +1,2 @@
 ### 🚀 Deploy to heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ferrux556/FidanRobot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ferrux556/LuciTaggerBot
